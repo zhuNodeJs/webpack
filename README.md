@@ -151,4 +151,3 @@ module.exports = {
 }
 ```
 8.vue-shopping项目是一个使用vuejs + resource.js构成的一个购物车实例，所采用的数据来自本地的JSON。
-10. AAAAAAAAAAAAAAAAAAAAAAAAAAA
